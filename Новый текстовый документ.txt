@@ -1,5 +1,3 @@
 print("Hello world")
 print("Hello everybody")
 print("Hello") 
-print("Hi my dear FRIEND")
-print("How are you")
